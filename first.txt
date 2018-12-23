@@ -1,3 +1,6 @@
 Gitの練習を始める
+最初のコミット
+git add
+git commit
 
 
